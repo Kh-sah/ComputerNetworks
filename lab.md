@@ -1,8 +1,8 @@
 # Practical 15 – Configuring RIPv2 (Classless) Routing in Cisco Packet Tracer
 
-**Name:** Khushi
-**Institution:** SRM Institute of Science and Technology (Delhi NCR Campus)
-**Date:** 24 September 2026
+**Name:** Khushi  
+**Institution:** SRM Institute of Science and Technology (Delhi NCR Campus)  
+**Date:** 24 September 2026  
 **Tool:** Cisco Packet Tracer
 
 ---
